@@ -63,21 +63,9 @@ joao = {
 
 O repositório contém meu site-portfólio desenvolvido com **Python, Flask, HTML, CSS e JavaScript**. A interface tem inspiração em terminal e inclui comandos interativos, animações de entrada, navegação responsiva e download do currículo.
 
-### Executar localmente
+### Meu site apresentação
 
-```bash
-python -m venv .venv
-```
-
-No Windows:
-
-```powershell
-.\.venv\Scripts\Activate.ps1
-pip install -r requirements.txt
-python app.py
-```
-
-Depois, acesse `http://127.0.0.1:5000`.
+(https://portfolio-python-chi.vercel.app/)
 
 ### Comandos do terminal interativo
 
