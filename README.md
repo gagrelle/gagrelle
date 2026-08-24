@@ -13,12 +13,12 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, com formação técnica em Desenvolvimento de Sistemas e experiência em ambientes operacionais. Gosto de entender processos, investigar divergências e transformar trabalho manual em soluções mais simples e confiáveis.
 
-Atualmente desenvolvo projetos em Python e web e busco uma oportunidade de estágio com foco em **Backend e aplicações de IA Generativa**.
+Atualmente desenvolvo projetos em Python, Java e web e busco uma oportunidade de estágio com foco em **Backend e aplicações de IA Generativa**.
 
-```python
+```python, java
 joao = {
     "localizacao": "Recife, PE",
-    "foco": ["Python", "Backend", "Automação", "IA Generativa"],
+    "foco": ["Python", "Java", "Backend", "Automação", "IA Generativa"],
     "objetivo": "Criar tecnologia que resolva problemas reais",
     "status": "Aberto a oportunidades de estágio"
 }
@@ -61,7 +61,7 @@ joao = {
 
 ## Este portfólio
 
-O repositório contém meu site-portfólio desenvolvido com **Python, Flask, HTML, CSS e JavaScript**. A interface tem inspiração em terminal e inclui comandos interativos, animações de entrada, navegação responsiva e download do currículo.
+O repositório contém meu site-portfólio desenvolvido com **Python, Java, Flask, HTML, CSS e JavaScript**. A interface tem inspiração em terminal e inclui comandos interativos, animações de entrada, navegação responsiva e download do currículo.
 
 ### Meu site apresentação
 
