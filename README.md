@@ -13,12 +13,12 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, com formação técnica em Desenvolvimento de Sistemas e experiência em ambientes operacionais. Gosto de entender processos, investigar divergências e transformar trabalho manual em soluções mais simples e confiáveis.
 
-Atualmente desenvolvo projetos em Python, Java e web e busco uma oportunidade de estágio com foco em **Backend e aplicações de IA Generativa**.
+Atualmente desenvolvo projetos em Java, TypeScript e busco uma oportunidade de estágio com foco em **Backend e aplicações de IA Generativa**.
 
-```python, java
+```typescript, java
 joao = {
     "localizacao": "Recife, PE",
-    "foco": ["Python", "Java", "Backend", "Automação", "IA Generativa"],
+    "foco": ["TypeScript", "Java", "Backend", "Automação", "IA Generativa"],
     "objetivo": "Criar tecnologia que resolva problemas reais",
     "status": "Aberto a oportunidades de estágio"
 }
@@ -26,7 +26,7 @@ joao = {
 
 ## Competências
 
-- **Desenvolvimento:** Python, Java, HTML5, CSS3 e fundamentos de Backend
+- **Desenvolvimento:** TypeScript, Java, HTML5, CSS3 e fundamentos de Backend
 - **Dados e produtividade:** Excel Avançado, Google Sheets, análise e gestão de dados
 - **Automação e IA:** automação de processos, IA Generativa e Engenharia de Prompt
 - **Visão de negócio:** organização, melhoria contínua e análise de processos
@@ -58,21 +58,3 @@ joao = {
 
 - **CST em Análise e Desenvolvimento de Sistemas** · UNINASSAU · 2026—2028
 - **Técnico em Desenvolvimento de Sistemas** · ETE Porto Digital · 2020—2022
-
-## Este portfólio
-
-O repositório contém meu site-portfólio desenvolvido com **Python, Java, Flask, HTML, CSS e JavaScript**. A interface tem inspiração em terminal e inclui comandos interativos, animações de entrada, navegação responsiva e download do currículo.
-
-### Meu site apresentação
-
-(https://portfolio-python-chi.vercel.app/)
-
-### Comandos do terminal interativo
-
-`ajuda` · `sobre` · `skills` · `projetos` · `experiencia` · `contato` · `curriculo` · `status` · `limpar`
-
----
-
-<div align="center">
-  <sub>Recife, PE · Feito com Python, curiosidade e melhoria contínua.</sub>
-</div>
