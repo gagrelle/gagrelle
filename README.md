@@ -35,9 +35,10 @@ joao = {
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| Dashboard em Python | Organização e visualização de informações para apoiar análises e decisões | Python, Dados |
-| Controle de Devoluções | Aplicação web para estruturar e acompanhar o fluxo de devoluções de materiais | HTML5, CSS3, Python |
+| Dashboard em TypeScript | Organização e visualização de informações para apoiar análises e decisões | TypeScript, Dados |
+| Controle de TypeScript | Aplicação web para estruturar e acompanhar o fluxo de devoluções de materiais | HTML5, CSS3, TypeScript |
 | Landing Pages | Interfaces para projetos próprios e iniciativas comerciais | Web, UI |
+| Merger PDF | Sistema seguro para realizar merges de PDF | Java, JavaFX |
 
 ## Experiência
 
